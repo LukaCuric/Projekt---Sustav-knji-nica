@@ -1,0 +1,18 @@
+C:\Users\curic\source\repos\Sustav Knjižnica\Sustav Knjižnica\bin\Debug\Sustav Knjižnica.exe.config
+C:\Users\curic\source\repos\Sustav Knjižnica\Sustav Knjižnica\bin\Debug\Sustav Knjižnica.exe
+C:\Users\curic\source\repos\Sustav Knjižnica\Sustav Knjižnica\bin\Debug\Sustav Knjižnica.pdb
+C:\Users\curic\source\repos\Sustav Knjižnica\Sustav Knjižnica\obj\Debug\Sustav Knjižnica.csprojAssemblyReference.cache
+C:\Users\curic\source\repos\Sustav Knjižnica\Sustav Knjižnica\obj\Debug\Sustav_Knjižnica.Form1.resources
+C:\Users\curic\source\repos\Sustav Knjižnica\Sustav Knjižnica\obj\Debug\Sustav_Knjižnica.Properties.Resources.resources
+C:\Users\curic\source\repos\Sustav Knjižnica\Sustav Knjižnica\obj\Debug\Sustav Knjižnica.csproj.GenerateResource.cache
+C:\Users\curic\source\repos\Sustav Knjižnica\Sustav Knjižnica\obj\Debug\Sustav Knjižnica.csproj.CoreCompileInputs.cache
+C:\Users\curic\source\repos\Sustav Knjižnica\Sustav Knjižnica\obj\Debug\Sustav Knjižnica.exe
+C:\Users\curic\source\repos\Sustav Knjižnica\Sustav Knjižnica\obj\Debug\Sustav Knjižnica.pdb
+C:\Users\curic\source\repos\Sustav Knjižnica\Sustav Knjižnica\obj\Debug\Sustav_Knjižnica.Dashboard.resources
+C:\Users\curic\source\repos\Sustav Knjižnica\Sustav Knjižnica\obj\Debug\Sustav_Knjižnica.Dodaj_knjige.resources
+C:\Users\curic\source\repos\Sustav Knjižnica\Sustav Knjižnica\obj\Debug\Sustav_Knjižnica.Pogledaj_knjige.resources
+C:\Users\curic\source\repos\Sustav Knjižnica\Sustav Knjižnica\obj\Debug\Sustav_Knjižnica.Dodaj_studenta.resources
+C:\Users\curic\source\repos\Sustav Knjižnica\Sustav Knjižnica\obj\Debug\Sustav_Knjižnica.Pogledaj_Studente.resources
+C:\Users\curic\source\repos\Sustav Knjižnica\Sustav Knjižnica\obj\Debug\Sustav_Knjižnica.Izdaj_knjige.resources
+C:\Users\curic\source\repos\Sustav Knjižnica\Sustav Knjižnica\obj\Debug\Sustav_Knjižnica.Vrati_knjigu.resources
+C:\Users\curic\source\repos\Sustav Knjižnica\Sustav Knjižnica\obj\Debug\Sustav_Knjižnica.Informacije_knjige.resources
